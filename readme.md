@@ -1,5 +1,5 @@
-[![Build Status](https://img.shields.io/travis/logic-panda/pdai-javascript-sdk.svg?branch=master&style=flat-square)](https://travis-ci.org/logic-panda/pdai-javascript-sdk)
-[![NPM Version](https://img.shields.io/npm/v/telegraf-wit.svg?style=flat-square)](https://www.npmjs.com/package/telegraf-wit)
+[![Build Status](https://img.shields.io/travis/logic-panda/sdk.svg?branch=master&style=flat-square)](https://travis-ci.org/logic-panda/sdk)
+[![NPM Version](https://img.shields.io/npm/v/telegraf-wit.svg?style=flat-square)](https://www.npmjs.com/package/@logic-panda/sdk)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
 
 # LogicPanda AI + Javascript SDK
@@ -40,7 +40,7 @@ telegraf.startPolling()
 ```
 
 
-There are some other [examples](https://github.com/logic-panda/pdai-javascript-sdk/tree/master/examples).
+There are some other [examples](https://github.com/logic-panda/sdk/tree/master/examples).
 
 
 ## Error Handling
