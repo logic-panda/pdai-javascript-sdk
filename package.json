@@ -5,7 +5,7 @@
   "main": "lib/panda.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/logic-panda/sdk.git"
+    "url": "git+ssh://git@github.com/logic-panda/pdai-javascript-sdk.git"
   },
   "keywords": [
     "telegram",
@@ -21,9 +21,9 @@
   "author": "Misael Borges <nexcsbr@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/logic-panda/sdk/issues"
+    "url": "https://github.com/logic-panda/pdai-javascript-sdk/issues"
   },
-  "homepage": "https://github.com/logic-panda/sdk#readme",
+  "homepage": "https://github.com/logic-panda/pdai-javascript-sdk#readme",
   "engines": {
     "node": ">=6.2.4"
   },
