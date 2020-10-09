@@ -1,5 +1,5 @@
-[![Build Status](https://img.shields.io/travis/logic-panda/sdk.svg?branch=master&style=flat-square)](https://travis-ci.org/logic-panda/sdk)
-[![NPM Version](https://img.shields.io/npm/v/logic-panda/sdk.svg?style=flat-square)](https://www.npmjs.com/package/@logic-panda/sdk)
+[![Build Status](https://img.shields.io/travis/@logic-panda/sdk.svg?branch=master&style=flat-square)](https://travis-ci.org/logic-panda/sdk)
+[![NPM Version](https://img.shields.io/npm/v/@logic-panda/sdk.svg?style=flat-square)](https://www.npmjs.com/package/@logic-panda/sdk)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
 
 # LogicPanda AI + Javascript SDK
