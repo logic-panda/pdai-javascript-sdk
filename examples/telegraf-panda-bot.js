@@ -1,8 +1,8 @@
 const Telegraf = require('telegraf')
 const { TelegrafPanda } = require('../lib/integrations')
 
-const app = new Telegraf(process.env.PANDA_APP_KEY)
-const panda = new TelegrafPanda(process.env.PANDA_APP_KEY)
+const app = new Telegraf(BOT_TOKEN)
+const panda = new TelegrafPanda(APP_KEY)
 
 app.use(Telegraf.memorySession())
 app.use(panda.middleware())
