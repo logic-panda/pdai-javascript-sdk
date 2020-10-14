@@ -1,8 +1,8 @@
 {
   "name": "@logic-panda/sdk",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "LogicPanda AI + Javascript SDK",
-  "main": "lib/panda.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/logic-panda/pdai-javascript-sdk.git"
@@ -32,7 +32,8 @@
     "lib/integrations/telegraf-panda/context.js",
     "lib/integrations/telegraf-panda/TelegrafPanda.js",
     "lib/panda.js",
-    "lib/pandaAI.js"
+    "lib/pandaAI.js",
+    "index.js"
   ],
   "scripts": {
     "test": "jest"
